@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Diary Completed</string>
+    <string name="current_date_text_string">current date</string>
+    <string name="title_hint">title</string>
+    <string name="diary_hint">your diary</string>
+    <string name="save_diary">save</string>
+    <string name="delete_diary">delete</string>
+    <string name="diary_recycler_date">diary date</string>
+    <string name="diary_recycler_title_text_view">diary title</string>
+</resources>
